@@ -27,7 +27,9 @@ Dưới đây là một bảng bạn có thể thêm vào file README.md để t
 -	Kết quả triển khai 
 Built model 
 -	Xây dựng 1 model theo kiến trúc của model A 
- 
+ ![image](https://github.com/ThangCRND/Research-Web-Security-and-Application/assets/130020047/cda5eb75-bc9b-44e6-8ae2-83f62d80a195)
+
+![image](https://github.com/ThangCRND/Research-Web-Security-and-Application/assets/130020047/d14f8882-d882-4ef7-832f-000f0666e5e5)
 
  
 
@@ -37,18 +39,21 @@ Dataset SCIC2010
 -	Cài đặt: model được học với 30 Epochs, input_size là 1400 ký tự và output_size là 2.
 
 -	Evaluate sau khi train:
- 
+ ![image](https://github.com/ThangCRND/Research-Web-Security-and-Application/assets/130020047/a3fc92fd-f963-4073-99ab-11de49fd6c77)
+
 
 -	Predict trên test data:
 labels:
 •	valid = 0
 •	malicious = 1
- 
+ ![image](https://github.com/ThangCRND/Research-Web-Security-and-Application/assets/130020047/f641d212-5146-4c94-a3e8-f82cf50c3970)
+
 
 ISCX-URL-2016
 -	Cài đặt: model được học với 50 Epochs, input_size là 1500 ký tự và output_size là 5.
 -	Evaluate sau khi train:
- 
+ ![image](https://github.com/ThangCRND/Research-Web-Security-and-Application/assets/130020047/b4f89223-24d5-491c-b288-ea8f61efe1ab)
+
 
 -	Predict trên test dataset:
 Labels:
@@ -57,5 +62,6 @@ Labels:
 •	malware = 2
 •	phishing = 3
 •	spam = 4
- 
+ ![image](https://github.com/ThangCRND/Research-Web-Security-and-Application/assets/130020047/3591dbe8-9c23-4782-8b18-3db8a6754caf)
+
 
